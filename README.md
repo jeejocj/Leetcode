@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
