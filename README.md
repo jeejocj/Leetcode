@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -42,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Counting
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
