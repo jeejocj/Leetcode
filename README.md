@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/jeejocj/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
 ## String Matching
 |  |
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
