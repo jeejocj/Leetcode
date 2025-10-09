@@ -19,7 +19,6 @@ var findMissingAndRepeatedValues = function(grid) {
         }
     }
 
-    flattened.sort()
     for(let i=1;i<=flattened.length;i++){
         if(!flattened.includes(i)) result.push(i)
     }
