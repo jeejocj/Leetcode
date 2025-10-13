@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jeejocj/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jeejocj/Leetcode/tree/master/0013-roman-to-integer) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3227-find-missing-and-repeated-values](https://github.com/jeejocj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jeejocj/Leetcode/tree/master/0013-roman-to-integer) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/jeejocj/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jeejocj/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
