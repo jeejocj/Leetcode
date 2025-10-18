@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jeejocj/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jeejocj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/jeejocj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jeejocj/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
