@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jeejocj/Leetcode/tree/master/0013-roman-to-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/jeejocj/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/jeejocj/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/jeejocj/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
