@@ -11,7 +11,7 @@ var sumDivisibleByK = function (nums, k) {
     let result = 0
     for (let key in map) {
         if (map[key] % k == 0) {
-            result += key * map[key]
+            result += +key * map[key]
         }
     }
     return result
