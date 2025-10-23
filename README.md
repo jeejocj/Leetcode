@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jeejocj/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/jeejocj/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/jeejocj/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jeejocj/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/jeejocj/Leetcode/tree/master/3934-coupon-code-validator) |
 ## String Matching
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/jeejocj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jeejocj/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jeejocj/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jeejocj/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jeejocj/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jeejocj/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/jeejocj/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/jeejocj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jeejocj/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
