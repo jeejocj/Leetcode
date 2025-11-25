@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/jeejocj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
+| [0219-contains-duplicate-ii](https://github.com/jeejocj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jeejocj/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jeejocj/Leetcode/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/jeejocj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3227-find-missing-and-repeated-values](https://github.com/jeejocj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/jeejocj/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jeejocj/Leetcode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jeejocj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
