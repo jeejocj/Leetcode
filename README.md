@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/jeejocj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jeejocj/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jeejocj/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jeejocj/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
