@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeejocj/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/jeejocj/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/jeejocj/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/jeejocj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jeejocj/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jeejocj/Leetcode/tree/master/0056-merge-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/jeejocj/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jeejocj/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/jeejocj/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
