@@ -7,27 +7,26 @@ var insert = function(intervals, newInterval) {
     let res = [];
 
     for (let i = 0; i < intervals.length; i++) {
-        // Case 1: new interval goes BEFORE current interval (no overlap)
-        if (newInterval[1] < intervals[i][0]) {
+        let curr = intervals[i];
+
+        // 1️. Current interval comes BEFORE new interval
+        if (curr[1] < newInterval[0]) {
+            res.push(curr);
+        }
+        // 2️. Current interval comes AFTER new interval
+        else if (curr[0] > newInterval[1]) {
             res.push(newInterval);
-            return res.concat(intervals.slice(i)); 
+            newInterval = curr;  
         }
-
-        // Case 2: new interval goes AFTER current interval (no overlap)
-        else if (newInterval[0] > intervals[i][1]) {
-            res.push(intervals[i]);
-        }
-
-        // Case 3: intervals OVERLAP → we MERGE
+        // 3️. Overlap → merge
         else {
-            newInterval = [
-                Math.min(newInterval[0], intervals[i][0]),
-                Math.max(newInterval[1], intervals[i][1])
-            ];
+            newInterval[0] = Math.min(newInterval[0], curr[0]);
+            newInterval[1] = Math.max(newInterval[1], curr[1]);
         }
     }
 
-    // Push the final merged interval
+    // Push the final interval
     res.push(newInterval);
+
     return res;
 };
