@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jeejocj/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/jeejocj/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/jeejocj/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/jeejocj/Leetcode/tree/master/0263-ugly-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/jeejocj/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/jeejocj/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jeejocj/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
